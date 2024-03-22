@@ -5,4 +5,8 @@ RBAC file
 Volumes
 Secrets 
 Configmaps
+Network Policy
+Ingress
+Nodeport
+Affninty
 
